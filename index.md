@@ -12,13 +12,27 @@ Prework is divided into three phases. The first two phases are required. The thi
 
 This phase should be completed by Monday, February 17, 2020. 
 
-[comment]: <> (Create your CNM Student Account)
+- Create your CNM Student Account
 [comment]: <> (Sign up for Slack and introduce yourself)
-- Sign up for DataCamp
+- Sign up for DataCamp free account
 - Sign up for Github
-- Sign up for a Gmail account (if you already don't have one)
-- Email your instructor the URL of your GitHub repository, your Gmail address, 
+- Sign up for a Gmail account (if you already don't have one) and verify you can get into Google Colab
+- Email your instructor the URL of your GitHub repository, your Gmail address, and you CNM email address 
 
 # Phase 2: Python Basics
 
-Complete the DataCamp course "Introduction to Python"
+This phase should be completed by Monday, February 24, 2020. 
+
+- Complete the DataCamp course "Introduction to Python". 
+
+Access to DataCamp will be supplied when you email you instructor your CNM email address.
+
+# Phase 3: R and SQL Basics 
+
+This phase is optional as prework, but if possible it should be completed by Monday, February 24, 2020. If it is not completed it will be considered extra homework after the bootcamp starts. These items WILL need to be completed eventually.
+
+- Complete the DataCamp course "Introduction to R". 
+- Complete the DataCamp course "Introduction to SQL". 
+
+Again, access to DataCamp will be supplied when you email you instructor your CNM email address.
+
