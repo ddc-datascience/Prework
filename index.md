@@ -12,8 +12,9 @@ Prework is divided into three phases. The first two phases are required. The thi
 
 This phase should be completed by Monday, February 17, 2020. 
 
-- Create your CNM Student Account
 [comment]: <> (Sign up for Slack and introduce yourself)
+
+- Create your CNM Student Account
 - Sign up for DataCamp free account
 - Sign up for Github
 - Sign up for a Gmail account (if you already don't have one) and verify you can get into Google Colab
