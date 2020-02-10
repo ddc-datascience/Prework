@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+Welcome to the prework. Here, you will find everything you need to get set up and ready to go before entering class.
 
-You can use the [editor on GitHub](https://github.com/deep-dive-coding-data-science/Prework/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Prework Schedule
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deep-dive-coding-data-science/Prework/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Prework is divided into three phases. The first two phases are required. The third phase is optional, but is strongly recommended. If the third phase is not completed before the bootcamp begins it will be assigned as homework so it will completed at some point during the bootcamp.
