@@ -67,8 +67,11 @@ _**Sign Up For Your DataCamp Free Account**_
 [This is the DataCamp link](https://www.datacamp.com/users/sign_up). **Be sure to use your CNM.edu email!** Also, just sign up for the free account, we will give you access to the classes when you notify us that your account is active.
 
 _**Sign up for Github (if you don't already have an account)**_
->
->[This is the Github sign up link]. In this course, _all_ of your code will be maintained in Git repositories, with remote copies hosted on GitHub. Therefore, it’s essential that you have a GitHub account. This may be a free account; none of the work in the bootcamp will require you to have a paid account.
->
->If you don’t already have a GitHub account, register for one by following the directions at [Signing up for a new GitHub account](https://help.github.com/en/github/getting-started-with-github/signing-up-for-a-new-github-account). **Please note:** As a data scientist, your GitHub account will become a significant part of your online professional identity; choose your user name accordingly.
 
+In this course, _all_ of your code will be maintained in Git repositories, with remote copies hosted on GitHub. Therefore, it’s essential that you have a GitHub account. This may be a free account; none of the work in the bootcamp will require you to have a paid account.
+
+If you don’t already have a GitHub account, register for one by following the directions at [Signing up for a new GitHub account](https://help.github.com/en/github/getting-started-with-github/signing-up-for-a-new-github-account). **Please note:** As a data scientist, your GitHub account will become a significant part of your online professional identity; choose your user name accordingly.
+
+_**Sign up for Gmail (if you don't already have an account)**_
+
+[This is the link to sign up for Gmail.](https://www.google.com/gmail/about/) You'll need a Gmail account to be ablew to use Google Colab which we will use to perform data science in the cloud. Again, just get the basic package which is free.
