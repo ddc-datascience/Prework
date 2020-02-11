@@ -74,4 +74,4 @@ If you don’t already have a GitHub account, register for one by following the 
 
 _**Sign up for Gmail (if you don't already have an account)**_
 
-[This is the link to sign up for Gmail.](https://www.google.com/gmail/about/) You'll need a Gmail account to be ablew to use Google Colab which we will use to perform data science in the cloud. Again, just get the basic package which is free.
+[This is the link to sign up for Gmail.](https://www.google.com/gmail/about/) You'll need a Gmail account to be able to use Google Colab which we will use to perform data science in the cloud. Again, just get the basic package which is free.
