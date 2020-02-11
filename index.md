@@ -16,9 +16,10 @@ This phase should be completed by Monday, February 17, 2020.
 
 - Create your CNM Student Account
     
-Creating your CNM Student Account |
------------- |
-In order to attend the bootcamp, you are required to apply for admission to CNM as a visiting student. This is true even if you’re already a CNM student, with a student account. To register, follow the instructions as [Visitor Students](https://www.cnm.edu/depts/enrollment/admissions/visitor-students).<br>**Please watch your email for acceptance of your registration!** This acceptance message will include your CNM student ID number, and your CNM e-mail address. **Without access to your cnm.edu e-mail account several critical steps of the pre-work will be impossible to complete.**
+> Creating your CNM Student Account
+> 
+> In order to attend the bootcamp, you are required to apply for admission to CNM as a visiting student. This is true even if you’re already a CNM student, with a student account. To register, follow the instructions as [Visitor Students](https://www.cnm.edu/depts/enrollment/admissions/visitor-students).
+> **Please watch your email for acceptance of your registration!** This acceptance message will include your CNM student ID number, and your CNM e-mail address. **Without access to your cnm.edu e-mail account several critical steps of the pre-work will be impossible to complete.**
 
 
 - Sign up for DataCamp free account
