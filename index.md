@@ -2,7 +2,7 @@ Welcome to the prework. Here, you will find everything you need to get set up an
 
 # DataCamp Access
 
-We have partnered with DataCamp to provide you with a free account while you're in the bootcamp. Some of our prework is done through DataCamp. You will have access to all DataCamp offerings, so feel free to supplement your learning with other DataCamp offerings (if you have the time).
+We have partnered with DataCamp to provide you with a free account while you're in the bootcamp. Some of our prework is done through DataCamp. You will have access to all DataCamp offerings, so feel free to supplement your learning with other DataCamp offerings (as time allows).
 
 # Prework Schedule
 
