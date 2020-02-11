@@ -41,11 +41,13 @@ Again, access to DataCamp will be supplied when you email you instructor your CN
 
 # Links and Instructions
 
-**Create your CNM Student Account**  
+_**Create your CNM Student Account**_
+
 In order to attend the bootcamp, you are required to apply for admission to CNM as a visiting student. This is true even if you’re already a CNM student, with a student account. To register, follow the instructions as [Visitor Students](https://www.cnm.edu/depts/enrollment/admissions/visitor-students).
 **Please watch your email for acceptance of your registration!** This acceptance message will include your CNM student ID number, and your CNM e-mail address. **Without access to your cnm.edu e-mail account several critical steps of the pre-work will be impossible to complete.**
 
-**Activate your CNM Student Account**
+_**Activate your CNM Student Account**_
+
 Once you have received your CNM email address and student ID number, you should activate your email account through the [https://my.cnm.edu](https://my.cnm.edu) portal. You must use this email address, and have access to your CNM email account, for some later steps in the pre-work.
 
 To activate your CNM email,
@@ -60,9 +62,13 @@ To activate your CNM email,
 
 **Do not lose these credentials!** They are essential not only in several steps of the pre-work, but also in obtaining and maintaining access to the network and server resources that you will use virtually every day of the bootcamp. A lost password can be reset, but requesting that reset (and re-establishing access in a timely fashion) will be **your** responsibility, not your instructors’.
     
-**Sign up for DataCamp free account**
+_**Sign Up For Your DataCamp Free Account**_
 
 [This is the DataCamp link](https://www.datacamp.com/users/sign_up). **Be sure to use your CNM.edu email!** Also, just sign up for the free account, we will give you access to the classes when you notify us that your account is active.
 
-- Sign up for Github (if you don;t already have an account)
-> [This is the Github sign up link].
+_**Sign up for Github (if you don't already have an account)**_
+>
+>[This is the Github sign up link]. In this course, _all_ of your code will be maintained in Git repositories, with remote copies hosted on GitHub. Therefore, it’s essential that you have a GitHub account. This may be a free account; none of the work in the bootcamp will require you to have a paid account.
+>
+>If you don’t already have a GitHub account, register for one by following the directions at [Signing up for a new GitHub account](https://help.github.com/en/github/getting-started-with-github/signing-up-for-a-new-github-account). **Please note:** As a data scientist, your GitHub account will become a significant part of your online professional identity; choose your user name accordingly.
+
