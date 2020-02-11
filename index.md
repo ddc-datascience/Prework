@@ -16,13 +16,12 @@ This phase should be completed by Monday, February 17, 2020.
 
 - Create your CNM Student Account
     
-> Creating your CNM Student Account
-> 
 > In order to attend the bootcamp, you are required to apply for admission to CNM as a visiting student. This is true even if you’re already a CNM student, with a student account. To register, follow the instructions as [Visitor Students](https://www.cnm.edu/depts/enrollment/admissions/visitor-students).
 > **Please watch your email for acceptance of your registration!** This acceptance message will include your CNM student ID number, and your CNM e-mail address. **Without access to your cnm.edu e-mail account several critical steps of the pre-work will be impossible to complete.**
 
-
 - Sign up for DataCamp free account
+> [This is the DataCamp link](https://www.datacamp.com/users/sign_up). **Be sure to use your CNM.edu email!** Also, just sign up for the free account, we will give you access to the classes when you notify us that your account is active.
+
 - Sign up for Github
 - Sign up for a Gmail account (if you already don't have one) and verify you can get into Google Colab
 - Email your instructor the URL of your GitHub repository, your Gmail address, and you CNM email address 
