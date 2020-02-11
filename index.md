@@ -18,7 +18,7 @@ This phase should be completed by Monday, February 17, 2020.
 
 - Create your CNM Student Account
 - Sign up for DataCamp free account
-- Sign up for Github (if you don;t already have an account)
+- Sign up for Github (if you don't already have an account)
 - Sign up for a Gmail account (if you already don't have one) and verify you can get into Google Colab
 - Email your instructor the URL of your GitHub repository, your Gmail address, and you CNM email address 
 
